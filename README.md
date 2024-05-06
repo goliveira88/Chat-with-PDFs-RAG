@@ -1,4 +1,4 @@
-# Projects
+# Chat with PDFs
 This is a project to deal with RAG process chatting with PDFs, using open-source models. All content of the project is in a colab notebook. For this project I am using Large Language Model (LLM) Ollama. So, to start, install Ollama for Linux (Google machines use linux):
 
 `!curl -fsSL https://ollama.com/install.sh | sh`
